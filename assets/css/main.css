@@ -2363,6 +2363,10 @@
 		.icon.style5 {
 			color: #8cc9f0;
 		}
+		
+		.icon.style6 {
+			color: #45E8B1;
+		}
 
 		@media screen and (max-width: 1680px) {
 
@@ -2402,16 +2406,16 @@
 		}
 
 	.icon.alt {
-		border-color: rgba(255, 255, 255, 0.35);
-		color: #ffffff;
+		border-color: green;
+		color: green;
 	}
 
 		.icon.alt:hover {
-			background-color: rgba(255, 255, 255, 0.075);
+			background-color: green;
 		}
 
 		.icon.alt:active {
-			background-color: rgba(255, 255, 255, 0.2);
+			background-color: green;
 		}
 
 /* Image */
@@ -3541,7 +3545,7 @@
 
 		#main .icon.alt {
 			border-color: #dddddd;
-			color: #636363;
+			color: #45E8B1;
 		}
 
 			#main .icon.alt:hover {
@@ -3807,4 +3811,8 @@
 		.map-img {
 			width: 100%;
 			height: auto;
+		}
+		
+		.skill-header {
+			font-style: italic;
 		}
