@@ -2363,7 +2363,7 @@
 		.icon.style5 {
 			color: #8cc9f0;
 		}
-		
+
 		.icon.style6 {
 			color: #45E8B1;
 		}
@@ -2915,23 +2915,23 @@
 		}
 
 			.statistics li.style1 {
-				background-color: #efa8b0;
+				background-color: #4AE186;
 			}
 
 			.statistics li.style2 {
-				background-color: #c79cc8;
+				background-color: #41C475;
 			}
 
 			.statistics li.style3 {
-				background-color: #a89cc8;
+				background-color: #36AB64;
 			}
 
 			.statistics li.style4 {
-				background-color: #9bb2e1;
+				background-color: #2F9E5B;
 			}
 
 			.statistics li.style5 {
-				background-color: #8cc9f0;
+				background-color: #2A8E52;
 			}
 
 			.statistics li strong, .statistics li b {
@@ -3801,16 +3801,16 @@
 			}
 
 		}
-		
+
 		a:hover {
 			text-decoration: underline;
 		}
-		
+
 		.map-img {
 			width: 100%;
 			height: auto;
 		}
-		
+
 		.skill-header {
 			font-style: italic;
 		}
